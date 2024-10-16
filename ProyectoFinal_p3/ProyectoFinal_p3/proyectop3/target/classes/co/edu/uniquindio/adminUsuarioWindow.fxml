@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="607.0" prefWidth="948.0" style="-fx-background-color: #7c706d;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.viewController.AdminUsuarioViewController">
+   <children>
+      <AnchorPane layoutY="82.0" prefHeight="525.0" prefWidth="948.0" style="-fx-background-color: #fcf8f6;">
+         <children>
+            <TextField fx:id="txtNombreCompleto" layoutX="215.0" layoutY="46.0" prefHeight="31.0" prefWidth="236.0" />
+            <Label layoutX="33.0" layoutY="51.0" text="Nombre Completo:" />
+            <Label layoutX="33.0" layoutY="113.0" text="Correo Electrónico:" />
+            <Label layoutX="34.0" layoutY="178.0" text="Número de teléfono:" />
+            <Label layoutX="33.0" layoutY="242.0" text="Dirección:" />
+            <TextField fx:id="txtCorreoElectronico" layoutX="215.0" layoutY="108.0" prefHeight="31.0" prefWidth="236.0" />
+            <TextField fx:id="txtNumeroTelefono" layoutX="215.0" layoutY="163.0" prefHeight="31.0" prefWidth="236.0" />
+            <TextField fx:id="txtDireccion" layoutX="215.0" layoutY="237.0" prefHeight="31.0" prefWidth="236.0" />
+            <Separator layoutX="471.0" layoutY="24.0" orientation="VERTICAL" prefHeight="472.0" prefWidth="2.0" />
+            <TableView fx:id="tableViewUsuarios" layoutX="498.0" layoutY="46.0" prefHeight="289.0" prefWidth="424.0">
+              <columns>
+                <TableColumn fx:id="columnNombreUsuario" prefWidth="139.0" text="Nombre" />
+                <TableColumn fx:id="columnCorreoUsuario" prefWidth="158.0" text="Correo" />
+                  <TableColumn fx:id="columnId" prefWidth="126.0" text="ID" />
+              </columns>
+            </TableView>
+            <Button fx:id="btnAgregar" layoutX="364.0" layoutY="459.0" mnemonicParsing="false" onAction="#agregarUsuarioEvent" prefHeight="31.0" prefWidth="87.0" style="-fx-background-color: #7c706d;" text="Agregar" textFill="#f8f4f4">
+               <font>
+                  <Font name="Dubai Medium" size="15.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnActualizar" layoutX="667.0" layoutY="459.0" mnemonicParsing="false" onAction="#actualizarUsuarioEvent" prefHeight="31.0" prefWidth="87.0" style="-fx-background-color: #7c706d;" text="Actualizar" textFill="#f8f4f4">
+               <font>
+                  <Font name="Dubai Medium" size="15.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnEliminar" layoutX="810.0" layoutY="459.0" mnemonicParsing="false" onAction="#eliminarUsuarioEvent" prefHeight="31.0" prefWidth="87.0" style="-fx-background-color: #7c706d;" text="Eliminar" textFill="#f8f4f4">
+               <font>
+                  <Font name="Dubai Medium" size="15.0" />
+               </font>
+            </Button>
+            <Label layoutX="34.0" layoutY="310.0" text="Identificación:" />
+            <TextField fx:id="txtId" layoutX="215.0" layoutY="303.0" prefHeight="31.0" prefWidth="236.0" />
+         </children>
+      </AnchorPane>
+      <Label layoutX="320.0" layoutY="14.0" text="Gestion de Usuarios" textFill="#c9bebe">
+         <font>
+            <Font name="Dubai Medium" size="37.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
