@@ -2,8 +2,10 @@ package co.edu.uniquindio.controller;
 
 import co.edu.uniquindio.model.BilleteraVirtual;
 import co.edu.uniquindio.model.Usuario;
-import co.edu.uniquindio.utils.BilleteraVirtualUtils;
 
+import javax.xml.bind.JAXBException;
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class AdminUsuarioController {
@@ -21,7 +23,7 @@ public class AdminUsuarioController {
         return instance;
     }
 
-    public LinkedList<Usuario> obtenerUsuarios() {
+    public ArrayList<Usuario> obtenerUsuarios() {
         return billeteraVirtual.getUsuarios();  // Devuelve la lista de usuarios desde el modelo
     }
 
@@ -29,7 +31,7 @@ public class AdminUsuarioController {
         billeteraVirtual.agregarUsuario(id, nombreCompleto, correo, telefono, direccion);  // Lógica para agregar usuario
     }
 
-    public void actualizarUsuario(String id, String nombreCompleto, String correo, String telefono, String direccion) {
+    public void actualizarUsuario(String id, String nombreCompleto, String correo, String telefono, String direccion) throws JAXBException, IOException {
         billeteraVirtual.actualizarUsuario(id, nombreCompleto, correo, telefono, direccion);  // Lógica para actualizar usuario
     }
 

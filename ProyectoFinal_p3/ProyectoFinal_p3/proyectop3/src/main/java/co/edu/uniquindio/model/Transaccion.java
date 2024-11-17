@@ -1,16 +1,34 @@
 package co.edu.uniquindio.model;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 
-public abstract class Transaccion {
+public abstract class Transaccion implements Serializable {
 
-    private String idTransaccion;
-    private LocalDate fecha;
-    private double montoTransaccion;
-    private String descripcion;
+    private static final long serialVersionUID = 1L;
+
+    private final String idTransaccion;
+    private final LocalDate fecha;
+    private final double montoTransaccion;
+    private final String descripcion;
     private Categoria categoria;
 
-    public Transaccion(String idTransaccion,LocalDate fecha, double montoTransaccion, String descripcion, Categoria categoria) {
+    public Transaccion(String idTransaccion, LocalDate fecha, double montoTransaccion, String descripcion, Categoria categoria) {
+        if (idTransaccion == null || idTransaccion.isEmpty()) {
+            throw new IllegalArgumentException("El id de la transacción no puede estar vacío");
+        }
+        if (fecha == null) {
+            throw new IllegalArgumentException("La fecha no puede ser nula");
+        }
+        if (montoTransaccion < 0) {
+            throw new IllegalArgumentException("El monto de la transacción no puede ser negativo");
+        }
+        if (descripcion == null || descripcion.isEmpty()) {
+            throw new IllegalArgumentException("La descripción no puede estar vacía");
+        }
+        if (categoria == null) {
+            throw new IllegalArgumentException("La categoría no puede ser nula");
+        }
         this.idTransaccion = idTransaccion;
         this.fecha = fecha;
         this.montoTransaccion = montoTransaccion;
@@ -34,8 +52,19 @@ public abstract class Transaccion {
         return descripcion;
     }
 
-    public Categoria getCategoria() {return categoria;}
+    public Categoria getCategoria() {
+        return categoria;
+    }
 
+    public void setCategoria(Categoria categoria) {
+        if (categoria == null) {
+            throw new IllegalArgumentException("La categoría no puede ser nula");
+        }
+        this.categoria = categoria;
+    }
+
+    @Override
     public abstract String toString();
-
 }
+
+

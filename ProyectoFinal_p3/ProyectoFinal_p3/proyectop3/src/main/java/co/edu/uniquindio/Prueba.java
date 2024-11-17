@@ -18,10 +18,6 @@ public class Prueba {
 
         billeteraVirtual.generarDeposito("1234", LocalDate.now(),3000,"Dinero que debo",categoria,"1234");
 
-        billeteraVirtual.eliminarUsuario("1234");
-
-
-
     }
 
 

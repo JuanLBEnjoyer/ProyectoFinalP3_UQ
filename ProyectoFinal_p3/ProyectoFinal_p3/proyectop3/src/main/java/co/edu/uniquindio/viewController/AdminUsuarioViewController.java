@@ -11,6 +11,9 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
+import javax.xml.bind.JAXBException;
+import java.io.IOException;
+
 public class AdminUsuarioViewController {
     App app;
     private AdminUsuarioController adminUsuarioController = AdminUsuarioController.getInstance();
@@ -74,7 +77,7 @@ public class AdminUsuarioViewController {
     }
 
     @FXML
-    void actualizarUsuarioEvent(ActionEvent event) {
+    void actualizarUsuarioEvent(ActionEvent event) throws JAXBException, IOException {
         adminUsuarioController.actualizarUsuario(usuarioSeleccionado.getIdUsuario(),
                 txtNombreCompleto.getText(), txtCorreoElectronico.getText(),
                 txtNumeroTelefono.getText(), txtDireccion.getText());
