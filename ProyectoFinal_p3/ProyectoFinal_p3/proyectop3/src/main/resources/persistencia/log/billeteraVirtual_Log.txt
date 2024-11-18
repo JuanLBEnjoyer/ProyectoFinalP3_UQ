@@ -1,0 +1,275 @@
+nov 05, 2024 11:56:50 A. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 11:56:50 A. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:03:15 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:03:15 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:03:15 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:19:32 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:19:32 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:19:32 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:22:48 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:22:48 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:22:48 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:25:11 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:25:11 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:25:11 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:29:11 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:29:11 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:29:11 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:30:01 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:30:01 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:30:01 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:31:08 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:31:08 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:31:08 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:33:55 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:33:55 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:33:55 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 05, 2024 12:35:22 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 05, 2024 12:35:23 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 05, 2024 12:35:23 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 17, 2024 10:32:05 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: 1234
+nov 17, 2024 10:32:05 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 10:32:05 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 3000.0 realizado correctamente
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: user1
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: user2
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual actualizarUsuario
+INFO: Usuario actualizado correctamente: user1
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarSaldoUsuario
+INFO: Saldo consultado para usuario: user1, Saldo: 0
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual crearCategoria
+INFO: Categoría creada: Categoria{idCategoria='cat1', nombre='Food'}
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 100.0 realizado correctamente
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual generarRetiro
+INFO: Retiro de 50.0 realizado correctamente
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual generarTransferencia
+INFO: Transaccion de25.0 realizada correctamente
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerTransaccionesUsuario
+INFO: Transacciones consultadas para usuario: user1
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerDetallesTransaccion
+INFO: Detalles de transacción consultados para transacción ID: trans1
+nov 17, 2024 11:31:21 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: user1
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: user2
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual actualizarUsuario
+INFO: Usuario actualizado correctamente: user1
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarSaldoUsuario
+INFO: Saldo consultado para usuario: user1, Saldo: 0
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual crearCategoria
+INFO: Categoría creada: Categoria{idCategoria='cat1', nombre='Food'}
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 100.0 realizado correctamente
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:57 P. M. co.edu.uniquindio.model.BilleteraVirtual generarRetiro
+INFO: Retiro de 50.0 realizado correctamente
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual generarTransferencia
+INFO: Transaccion de25.0 realizada correctamente
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerTransaccionesUsuario
+INFO: Transacciones consultadas para usuario: user1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerDetallesTransaccion
+INFO: Detalles de transacción consultados para transacción ID: trans1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual crearPresupuesto
+INFO: Presupuesto creado para usuario: user1, Presupuesto: pres1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerPresupuestosUsuario
+INFO: Presupuestos consultados para usuario: user1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarMontoGastado
+INFO: Monto gastado consultado para el usuario: user1, presupuesto: pres1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarSaldoPresupuesto
+INFO: Saldo del presupuesto consultado para el usuario: user1, presupuesto: pres1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarGastoPorCategoriaRecursivo
+INFO: Gasto total por categoría consultado recursivamente para el usuario: user1, categoría: Food
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual listarCategorias
+INFO: Categorías listadas
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual asignarCategoriaATransaccion
+INFO: Categoría asignada a la transacción: trans1, categoría: Food
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual actualizarCategoria
+INFO: Categoría actualizada: cat1, nuevo nombre: Groceries
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual eliminarCategoria
+INFO: Categoría eliminada: cat1
+nov 17, 2024 11:33:58 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: user1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarUsuario
+INFO: Usuario guardado correctamente: user2
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual actualizarUsuario
+INFO: Usuario actualizado correctamente: user1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarSaldoUsuario
+INFO: Saldo consultado para usuario: user1, Saldo: 0
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual crearCategoria
+INFO: Categoría creada: Categoria{idCategoria='cat1', nombre='Food'}
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual generarDeposito
+INFO: Deposito de 100.0 realizado correctamente
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual generarRetiro
+INFO: Retiro de 50.0 realizado correctamente
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual generarTransferencia
+INFO: Transaccion de25.0 realizada correctamente
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerTransaccionesUsuario
+INFO: Transacciones consultadas para usuario: user1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerDetallesTransaccion
+INFO: Detalles de transacción consultados para transacción ID: trans1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual crearPresupuesto
+INFO: Presupuesto creado para usuario: user1, Presupuesto: pres1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerPresupuestosUsuario
+INFO: Presupuestos consultados para usuario: user1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarMontoGastado
+INFO: Monto gastado consultado para el usuario: user1, presupuesto: pres1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarSaldoPresupuesto
+INFO: Saldo del presupuesto consultado para el usuario: user1, presupuesto: pres1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarGastoPorCategoriaRecursivo
+INFO: Gasto total por categoría consultado recursivamente para el usuario: user1, categoría: Food
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual listarCategorias
+INFO: Categorías listadas
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual asignarCategoriaATransaccion
+INFO: Categoría asignada a la transacción: trans1, categoría: Food
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual actualizarCategoria
+INFO: Categoría actualizada: cat1, nuevo nombre: Groceries
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual eliminarCategoria
+INFO: Categoría eliminada: cat1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual agregarCuentaUsuario
+INFO: Cuenta agregada para usuario: user1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual consultarDetallesCuentaUsuario
+INFO: Detalles de cuenta consultados para usuario: user1, Cuenta ID: account1
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual listarTransacciones
+INFO: Lista de todas las transacciones consultada
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual filtrarTransaccionesPorFecha
+INFO: Transacciones filtradas por fecha: desde 2024-11-16 hasta 2024-11-17
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual gastosMasComunes
+INFO: Gastos más comunes consultados
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual usuariosConMasTransacciones
+INFO: Usuarios con más transacciones consultados
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual saldoPromedioUsuarios
+INFO: Saldo promedio de usuarios consultado
+nov 17, 2024 11:36:43 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:46 P. M. co.edu.uniquindio.model.BilleteraVirtual generarReporteCSV
+INFO: Reporte CSV generado correctamente para el usuario: user1
+nov 17, 2024 11:36:46 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:47 P. M. co.edu.uniquindio.model.BilleteraVirtual generarReportePDF
+INFO: Reporte PDF generado correctamente para el usuario: user1
+nov 17, 2024 11:36:47 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:47 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:47 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:47 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerTransaccionesUsuario
+INFO: Transacciones consultadas para usuario: user1
+nov 17, 2024 11:36:48 P. M. co.edu.uniquindio.model.BilleteraVirtual actualizarCuentaUsuario
+INFO: Cuenta actualizada para usuario: user1, Cuenta ID: account1
+nov 17, 2024 11:36:48 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:48 P. M. co.edu.uniquindio.model.BilleteraVirtual eliminarCuentaUsuario
+INFO: Cuenta eliminada para usuario: user1, Cuenta ID: account1
+nov 17, 2024 11:36:48 P. M. co.edu.uniquindio.model.BilleteraVirtual obtenerUsuario
+INFO: Usuario encontrado
+nov 17, 2024 11:36:48 P. M. co.edu.uniquindio.model.BilleteraVirtual eliminarUsuario
+WARNING: Usuario no eliminado
+co.edu.uniquindio.exception.SaldoDisponibleException: El usuario aún tiene saldo disponible
+	at co.edu.uniquindio/co.edu.uniquindio.model.BilleteraVirtual.validarSaldo(BilleteraVirtual.java:123)
+	at co.edu.uniquindio/co.edu.uniquindio.model.BilleteraVirtual.eliminarUsuario(BilleteraVirtual.java:131)
+	at co.edu.uniquindio/co.edu.uniquindio.Prueba.main(Prueba.java:105)
+

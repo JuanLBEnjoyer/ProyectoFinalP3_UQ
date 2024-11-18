@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<billeteraVirtual>
+    <usuarios>
+        <correo>john.smith@example.com</correo>
+        <direccion>123 Main St</direccion>
+        <nombreCompleto>John Smith</nombreCompleto>
+        <saldoTotal>25.0</saldoTotal>
+        <telefono>1234567890</telefono>
+    </usuarios>
+    <usuarios>
+        <correo>jane.doe@example.com</correo>
+        <direccion>456 Main St</direccion>
+        <nombreCompleto>Jane Doe</nombreCompleto>
+        <saldoTotal>75.0</saldoTotal>
+        <telefono>0987654321</telefono>
+    </usuarios>
+    <transacciones>
+        <categoria>
+            <idCategoria>cat1</idCategoria>
+            <nombre>Food</nombre>
+        </categoria>
+    </transacciones>
+    <transacciones>
+        <categoria>
+            <idCategoria>cat1</idCategoria>
+            <nombre>Food</nombre>
+        </categoria>
+    </transacciones>
+    <transacciones>
+        <categoria>
+            <idCategoria>cat1</idCategoria>
+            <nombre>Food</nombre>
+        </categoria>
+    </transacciones>
+</billeteraVirtual>

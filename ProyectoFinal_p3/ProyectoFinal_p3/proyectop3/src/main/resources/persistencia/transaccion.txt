@@ -1,0 +1,22 @@
+1234@@2024-10-15@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-10-15@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-05@@3000.0@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+1234@@2024-11-17@@3000,00@@Dinero que debo@@4556@@Deudas@@1234@@DEPOSITO
+trans1@@2024-11-17@@100,00@@Salary@@cat1@@Food@@user1@@DEPOSITO
+trans2@@2024-11-17@@50,00@@Groceries@@cat1@@Food@@user1@@RETIRO
+trans3@@2024-11-17@@25,00@@Loan@@cat1@@Food@@user1@@TRANSFERENCIA
+trans1@@2024-11-17@@100,00@@Salary@@cat1@@Food@@user1@@DEPOSITO
+trans2@@2024-11-17@@50,00@@Groceries@@cat1@@Food@@user1@@RETIRO
+trans3@@2024-11-17@@25,00@@Loan@@cat1@@Food@@user1@@TRANSFERENCIA
+trans1@@2024-11-17@@100,00@@Salary@@cat1@@Food@@user1@@DEPOSITO
+trans2@@2024-11-17@@50,00@@Groceries@@cat1@@Food@@user1@@RETIRO
+trans3@@2024-11-17@@25,00@@Loan@@cat1@@Food@@user1@@TRANSFERENCIA
