@@ -1,2 +1,0 @@
-# Titulo
-Descripción proyecto
